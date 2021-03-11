@@ -1,0 +1,111 @@
+h1 {
+    background-color: rgb(255, 102, 0);
+    color: white;
+    margin-bottom: 40px;
+    padding-top:15px;
+    padding-bottom:15px;
+    margin-left:-8px;
+    padding-left:30px;
+    margin-right:500px;
+    
+
+}
+body {
+    background-color: #808080;
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+a {display: table-row}
+.paperAirplane {
+    background-color: rgb(255,102,0);
+    color: white;
+    text-decoration: none;
+    
+    padding:1em 1.5em;
+    border:solid;
+    
+}
+.foreverOrigami {
+    background-color: rgb(255,102,0);
+    color: white;
+    padding:1em 1.5em;
+    text-decoration: none;
+   
+}
+p {
+    color: #808080;
+}
+.h2payPlane {
+    position: relative;
+}
+.h2payPlane {
+    position: absolute;
+    top:25%;
+    left:30%;
+    transform: translate(50%,50%);
+}
+.h2payPlane {
+    color: white;
+}
+.fivePlanes {
+    position:relative;
+}
+.fivePlanes {
+    position: absolute;
+    top: 50%;
+    left:65%;
+    
+}
+.fivePlanesXplane {
+    position: relative;
+}
+.fivePlanesXplane {
+    position: absolute;
+    top: 90%;
+    left: 60%;
+}
+.threePlanes {
+    position:relative;
+}
+.threePlanes {
+    position: absolute;
+    top: 60%;
+    left:7%;
+    
+}
+.threePlanesXplane {
+    position: relative;
+}
+.threePlanesXplane {
+    position: absolute;
+    top: 100%;
+    left: 2%;
+}
+.onePlane {
+    position:relative;
+}
+.onePlane {
+    position: absolute;
+    top: 45%;
+    left:35%;
+    
+}
+.onePlaneXplane {
+    position: relative;
+}
+.onePlaneXplane {
+    position: absolute;
+    top: 85%;
+    left: 28%;
+}
+.I {
+    color: #808080;
+    position: relative;
+}
+.I {
+    position: absolute;
+    top:110%;
+    left:8%;
+}
